@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&family=Shrikhand&display=swap');
+
 #fondo-con-imagen {
     height: 70vh;
     background-image: url("imagenes/gris.jpg");
@@ -12,7 +14,7 @@ h1 {
   font-size: 79px;
   text-align: left
   line-height: 0.78;
-  font-family: 'Helvetica Neue', sans-serif;
+  font-family: 'Shrikhand', cursive;
   letter-spacing: -0.04em; 
 }
 

@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond&display=swap')
 
 #fondo-con-imagen {
-    height: 70vh;
+    height: 100vh;
     background-image: url("imagenes/gris.jpg");
     background-repeat: no-repeat;
     background-position: center;

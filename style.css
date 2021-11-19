@@ -1,11 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&family=Shrikhand&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond&display=swap')
-
-body {
-	margin:0;
-}
 #fondo-con-imagen {
-    height: 100vh;
+    height: 70vh;
     background-image: url("imagenes/gris.jpg");
     background-repeat: no-repeat;
     background-position: center;
@@ -15,44 +9,15 @@ body {
 }
 
 h1 {
-  font-size: 80px;
+  font-size: 79px;
   text-align: left
   line-height: 0.78;
-  font-family: 'Shrikhand', cursive;
+  font-family: 'Helvetica Neue', sans-serif;
   letter-spacing: -0.04em; 
 }
 
-h2 {
-  font-size: 55px;
-  text-align: left;
-  line-height: 0.78;
-  font-family: 'Shrikhand', cursive;
-  letter-spacing: -0.04em; 
-}
 
-h3 {
-  font-size: 55px;
-  text-align: left;
-  line-height: 0.78;
-  font-family: 'Shrikhand', cursive;
-  letter-spacing: -0.04em; 
-}
 
-h4 {
-  font-size: 55px;
-  text-align: left;
-  line-height: 0.78;
-  font-family: 'Shrikhand', cursive;
-  letter-spacing: -0.04em; 
-}
-
-h6 {
-  font-size: 55px
-}
-
-p {
-  font-family: 'Cormorant Garamond', serif;
-}
 
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
@@ -117,4 +82,3 @@ p {
     margin-top: 7rem;
   }
 }
-

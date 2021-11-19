@@ -50,6 +50,14 @@ h6 {
   font-size: 55px
 }
 
+h7 {
+  font-size: 55px;
+  text-align: center;
+  line-height: 0.78;
+  font-family: 'Shrikhand', cursive;
+  letter-spacing: -0.04em; 
+}
+
 p {
   font-family: 'Cormorant Garamond', serif;
 }

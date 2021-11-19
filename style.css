@@ -6,7 +6,7 @@ body {
 }
 #fondo-con-imagen {
     height: 100vh;
-    background-image: url("imagenes/gris.jpg");
+    background-image: url("imagenes/fondo.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
